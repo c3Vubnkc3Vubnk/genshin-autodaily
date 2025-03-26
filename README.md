@@ -14,3 +14,6 @@ Some problem
 
 Warning:if you can't read chinese, please translate it to english,I will translate chinese to english in the future
 If you still need help,just create an issue
+
+
+And,if you find this project is helpful,pls,give me a star.
