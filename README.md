@@ -1,4 +1,3 @@
 # genshin-autodaily
 a project made for auto finish genshin daily commission
-/README.md  
-/guide1.png  
+![Logo](./guide1.png)
