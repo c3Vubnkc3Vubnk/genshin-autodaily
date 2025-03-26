@@ -1,0 +1,8 @@
+修改如下：
+onedragontaskitem.cs中把”case合成树脂“一行及所属行注释掉，用来避免去合成树脂
+把auto fight和auto domain和autotrackpath替换掉
+把common替换掉
+替换C:\Users\sunny\Desktop\sunnygi0.40\BetterGenshinImpact\GameTask\QuickTeleport\Assets\1920x1080\MapChoose
+C:\Users\sunny\Desktop\sunnygi0.40\BetterGenshinImpact\GameTask\AutoTrackPath\Assets\tp.json
+map文件记得加上，初始github是没有的
+联机检测去掉
